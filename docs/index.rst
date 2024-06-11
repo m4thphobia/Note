@@ -20,26 +20,32 @@ Contents
 .. toctree::
    :caption: Reinforcement Learning
    :maxdepth: 1
-   source/Reinforcement_Learning/Prerequisits/prerequisits
-   source/Reinforcement_Learning/Value_Iteration/value_iteration
-   source/Reinforcement_Learning/Q-learning/q-learning
-   source/Reinforcement_Learning/DQN/dqn_ddqn_dueling
-   source/Reinforcement_Learning/DAU/dau
-   source/Reinforcement_Learning/Actor-Critic/actor-critic
-   source/Reinforcement_Learning/DDPG/ddpg
-   source/Reinforcement_Learning/TRPO/trpo
-   source/Reinforcement_Learning/SAC/sac
-   source/Reinforcement_Learning/World_Models/world_models
+   source/1_Reinforcement_Learning/0_Prerequisits/prerequisits.ipynb
+   source/1_Reinforcement_Learning/1_Value_Iteration/value_iteration.ipynb
+   source/1_Reinforcement_Learning/2_Q-learning/q-learning.ipynb
+   source/1_Reinforcement_Learning/3_DQN/dqn_ddqn_dueling.ipynb
+   source/1_Reinforcement_Learning/4_DAU/dau.ipynb
+   source/1_Reinforcement_Learning/5_Actor-Critic/actor-critic.ipynb
+   source/1_Reinforcement_Learning/6_DDPG/ddpg.ipynb
+   source/1_Reinforcement_Learning/7_TRPO/trpo.ipynb
+   source/1_Reinforcement_Learning/8_SAC/sac.ipynb
+   source/1_Reinforcement_Learning/9_World_Models/world_models.ipynb
 
 .. toctree::
    :caption: Continuous Optimization
    :maxdepth: 1
 
-   source/Continuous_Optimization/Prerequisits1/prerequisits1
-   source/Continuous_Optimization/Prerequisits2/prerequisits2
-   source/Continuous_Optimization/Unconstrained_Optimization/unconstrained_optimization
-   source/Continuous_Optimization/Constrained_Optimization/constrained_optimization
-   source/Continuous_Optimization/Machine_Learning/machine_learning
+   source/2_Optimization/Continuous_Optimization/0_Prerequisits/prerequisits.ipynb
+   source/2_Optimization/Continuous_Optimization/1_Unconstrained_Optimization/unconstrained_optimization.ipynb
+   source/2_Optimization/Continuous_Optimization/2_Constrained_Optimization/constrained_optimization.ipynb
+
+.. toctree::
+   :caption: Convex Optimization
+   :maxdepth: 1
+
+   source/2_Optimization/Convex_Optimization/0_Prerequisits/prerequisits.ipynb
+   source/2_Optimization/Convex_Optimization/1_Unconstrained_Optimization/unconstrained_optimization.ipynb
+   source/2_Optimization/Convex_Optimization/2_Constrained_Optimization/constrained_optimization.ipynb
 
 
 .. toctree::
