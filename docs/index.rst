@@ -44,45 +44,31 @@ Contents
    :maxdepth: 1
 
    source/2_Optimization/Convex_Optimization/0_Prerequisits/prerequisits.ipynb
-   source/2_Optimization/Convex_Optimization/1_Unconstrained_Optimization/unconstrained_optimization.ipynb
-   source/2_Optimization/Convex_Optimization/2_Constrained_Optimization/constrained_optimization.ipynb
 
+.. toctree::
+   :caption: Statistics
+   :maxdepth: 1
+
+   source/3_Statistics/Mathematical_Statistics/0_Prerequisits/prerequisits.ipynb
+   source/3_Statistics/Statistical_Learning_Theory/0_Prerequisits/prerequisits.ipynb
 
 .. toctree::
    :caption: Bandit Algorithm
    :maxdepth: 1
 
-   source/Bandit_Algorithm/Prerequisits/prerequisits
-
-
-.. toctree::
-   :caption: Probability Theory
-   :maxdepth: 1
-
-   source/Others/Visualize/t-SNE/t-SNE
-   source/Others/Visualize/Umap/Umap
-   source/Others/Visualize/Isomap/Isomap
-
-   source/Others/Hogwild/Hogwild
-   source/Others/Stein_Variational_Gradient_Discent/Stein_Variational_Gradient_Discent
-   source/Others/Difference_Target_Propagetion/Difference_Target_Propagetion
-   source/Others/Quantile_Regression/Quantile_Regression
-
-   source/Others/Physics_Informed/PINN/PINN
+   source/4_Bandit_Algorithm/0_Prerequisits/prerequisits
 
 .. toctree::
-   :caption: Lebesgue Integral
+   :caption: Stochastic Approximation
    :maxdepth: 1
 
-   source/Probability_Theory/PT/PT
-   source/Probability_Theory/SP/SP
-   source/Probability_Theory/SDE/SDE
+   source/5_Stochastic_Approximation/0_Prerequisits/prerequisits
 
 .. toctree::
-   :caption: Information Geometry
+   :caption: Math
    :maxdepth: 1
 
-   source/Geometry/Differential_Geometry_of_Curves_and_Surfaces/Differential_Geometry_of_Curves_and_Surfaces
-   source/Geometry/Manifold/Manifold
-   source/Geometry/Differential Geometry/Differential Geometry
-   source/Geometry/Information_Geometry/Information_Geometry
+   source/6_Math/Lebesgue_Integral/0_Prerequisits/prerequisits.ipynb
+   source/6_Math/Function_Analysis/0_Prerequisits/prerequisits.ipynb
+   source/6_Math/Probability_Theory/0_Prerequisits/prerequisits.ipynb
+   source/6_Math/Geometry/0_Prerequisits/prerequisits.ipynb
